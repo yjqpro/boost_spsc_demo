@@ -1,0 +1,3 @@
+/Users/yjqpro/codes/cpp/boost_spsc_demo/build/CMakeFiles/rebuild_cache.dir
+/Users/yjqpro/codes/cpp/boost_spsc_demo/build/CMakeFiles/edit_cache.dir
+/Users/yjqpro/codes/cpp/boost_spsc_demo/build/CMakeFiles/boost_sesc_demo.dir
